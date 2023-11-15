@@ -1,0 +1,34 @@
+div {
+    align-items: center;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    width: 80%;
+    border: 3px solid gray;
+}
+
+th {
+    border: 1px solid gray;
+}
+
+.backGrenn {
+    background-color: #a6fc93;
+}
+
+.colorBorderRed {
+    color: red;
+    border: 1px solid red;
+}
+
+.textoIzqBackAqua {
+    text-align: left;
+    background-color: aqua;
+}
+
+.textoAbajoDerFuchsia{
+    vertical-align: bottom;
+    text-align: right;
+    background-color: fuchsia;
+}
