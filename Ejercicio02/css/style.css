@@ -1,0 +1,40 @@
+div {
+    border: 1px solid #72f3f5;
+    width: 15%;
+}
+
+table {
+    border-collapse: collapse;
+    border: 5px solid #aaaaaa;
+    border-top: 5px solid #f0f0f0;
+    border-left: 5px solid #f0f0f0;
+}
+
+tr,
+th,
+td {
+    border: 1px solid #72f3f5;
+    width: 10rem;
+}
+
+.par {
+    background-color: #d0fec8;
+}
+
+.impar {
+    background-color: #9ac592;
+}
+
+.titulo{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+#titulo {
+    background-color: #132e2e;
+    color: #d0fec8;
+}
