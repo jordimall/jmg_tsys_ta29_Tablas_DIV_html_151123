@@ -1,0 +1,16 @@
+table {
+
+    margin-top: 12px;
+    border: 1px black solid;
+
+}
+
+td,
+th,
+tr {
+    border: 1px black solid;
+}
+
+.bold {
+    font-weight: bold;
+}
