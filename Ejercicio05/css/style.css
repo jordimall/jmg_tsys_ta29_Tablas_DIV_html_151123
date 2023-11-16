@@ -1,0 +1,15 @@
+p {
+    margin-bottom: 0;
+}
+
+.letras{
+    list-style-type: lower-alpha;
+}
+
+.numRomanos{
+    list-style-type: lower-roman;
+}
+
+#principal{
+    margin-top: 0;
+}

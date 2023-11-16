@@ -1,0 +1,30 @@
+table {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    color: darkred;
+    border: 2px solid gray;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    background-image: url("../img/pisadasPerro.png");
+}
+
+th,
+td {
+    border: 1px solid black;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+th {
+    background-color: rgb(72, 156, 72);
+    font-weight: normal;
+}
+
+.backOrange {
+    background-color: rgb(250, 173, 114);
+}
+
+.backYellow {
+    background-color: rgb(255, 255, 139);
+}
